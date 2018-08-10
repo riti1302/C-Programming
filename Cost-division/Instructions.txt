@@ -1,0 +1,15 @@
+  Welcome to the cost division
+ 
+  Here are the instructions on how the program works:
+  
+  The program takes two inputs namely,
+  1. Number of person
+  2. Number of transactions
+
+  Suppose, we have given input of number of person as 
+  3 and number of transactions as 4. It means that 2 persons 
+  had done 1 transaction each and 3rd person had done 2
+  transactions.
+
+  This program calculates the cost that each person should
+  recieve or pay.
