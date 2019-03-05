@@ -9,4 +9,4 @@ Run the program:
             ./a.out
             
 Instructions to use:
-[Instructions](Instructions)
+[Instructions.txt](Instructions)
