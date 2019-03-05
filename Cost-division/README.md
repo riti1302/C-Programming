@@ -1,12 +1,14 @@
 # Cost Splitter
+Pure Windows application
 
 ## Usage
-Compile the program:
-        
-            gcc main.c
+
 Run the program:
         
-            ./a.out
+            cost division.exe
             
 Instructions to use:
 [Instructions.txt](Instructions)
+
+For more info visit my blog:
+https://wordpress.com/view/ritika6846.wordpress.com
